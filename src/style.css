@@ -1,0 +1,63 @@
+body{
+    margin: 50px 100px;
+    width: 319px;
+    font-family: 'Inter', sans-serif;
+    background-color: #404457;
+}
+
+/*----------Infos----------*/
+.info{
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #262833;
+}
+
+.info--photo{
+    border: 1px solid #262833;
+    border-top-right-radius: 4%;
+    border-top-left-radius: 4%;
+    
+}
+
+.info--nom{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.info--ocupation{
+    margin-top: 3px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 200;
+    color: #F3BF99;
+}
+
+.info--site{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.info--btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 5px 110px;
+}
+
+.info--mail-logo{
+    margin:0px;
+}
+
+.info--mail-text{
+    margin: 0px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+
+
