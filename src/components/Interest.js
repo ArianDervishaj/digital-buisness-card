@@ -5,7 +5,7 @@ function Interest(){
         <div className='interest'>
         <h2 className='interest--titre'>Interêts</h2>
         <p className='interest--text'>
-        Informatique. Jeux-vidéo. Cuisine. Basket
+        Informatique. Jeux-vidéo. Cuisine. Basket. Ecologie.
         </p>
     </div>
     )
