@@ -12,6 +12,7 @@ function App() {
       <About />
       <Interest />
       <Footer />
+      
     </div>
   );
 }
