@@ -59,5 +59,43 @@ body{
     display: inline-block;
 }
 
+/*---------A propos *--------------*/
+.about{
+    background-color: #262833;
+    padding: 20px 30px 10px 30px;
+    color: #FFFFFF;
+}
 
+.about--titre{
+    margin: 0px;
+    font-size: 16;
+    font-weight: 500;
+}
 
+.about--text{
+    font-size: 12px;
+    line-height: 1.2rem;
+    text-align: justify;
+    margin-bottom: 0px;
+}
+
+/*-----------Infos------------------*/
+.interest{
+    background-color: #262833;
+    padding: 20px 30px 15px 30px;
+    color: #FFFFFF;
+}
+
+.interest--titre{
+    margin: 0px;
+    font-size: 16;
+    font-weight: 500;
+}
+
+.interest--text{
+    font-size: 12px;
+    line-height: 1.2rem;
+    text-align: justify;
+}
+
+/*-----------Footer------------------*/
